@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Trello"
 include(":app")
- 
+include(":app")
