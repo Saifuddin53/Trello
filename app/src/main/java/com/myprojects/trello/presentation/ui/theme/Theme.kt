@@ -1,4 +1,4 @@
-package com.myprojects.trello.ui.theme
+package com.myprojects.trello.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

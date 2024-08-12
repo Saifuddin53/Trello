@@ -1,4 +1,4 @@
-package com.myprojects.trello.ui.components
+package com.myprojects.trello.presentation.ui.components
 
 import androidx.compose.material.Text
 import androidx.compose.material.TopAppBar
